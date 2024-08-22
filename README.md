@@ -21,10 +21,7 @@
 
 <p>(我怎么敢把这东西放上来的，不是自取其辱吗x)</p>
 
-<div align="center">
-	<img src="https://github-readme-activity-graph.vercel.app/graph?username=drakending&theme=tokyo-night" />
-</div>
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=drakending)](https://git.io/streak-stats)
 - 🔭 working on CG and CV, addicted to building wheel...
 - 🌱 currently learning rust!
   
