@@ -20,8 +20,16 @@
 </p>
 
 <p>(我怎么敢把这东西放上来的，不是自取其辱吗x)</p>
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img
+      align="center"
+      height="165"
+      src="https://streak-stats.demolab.com/?user=drakending"
+    />
+  </a>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=drakending)](https://git.io/streak-stats)
+</p>
 - 🔭 working on CG and CV, addicted to building wheel...
 - 🌱 currently learning rust!
   
