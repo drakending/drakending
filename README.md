@@ -30,7 +30,11 @@
   </a>
 
 </p>
+
+
+
 - 🔭 working on CG and CV, addicted to building wheel...
+  
 - 🌱 currently learning rust!
   
 
