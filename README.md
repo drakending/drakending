@@ -2,9 +2,9 @@
   Hi there 👋 This is Flowish
 </h1>
 
-<div style="display: flex; justify-content: center;">
-    <img height="157px" src="https://github-readme-stats.vercel.app/api?username=drakending&show_icons=true&theme=transparent" style="margin-right: 10px;" />
-    <img height="157px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drakending&theme=transparent" />
+<div style="display: flex; justify-content: space-around; align-items: center;">
+    <img height="187px" src="https://github-readme-stats.vercel.app/api?username=drakending&show_icons=true&theme=transparent" />
+    <img height="187px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drakending&theme=transparent" />
 </div>
 <p>(我怎么敢把这东西放上来的，不是自取其辱吗x)</p>
 
@@ -17,5 +17,5 @@
   
 
 <h2>Current focus project</h2>
-<p><a src="https://github.com/drakending/C_compiler">C compiler</a> implements by rust, trying to support as much features as possible.</p>
+<p><a href="https://github.com/drakending/C_compiler">C compiler</a> implements by rust, trying to support as much features as possible.</p>
 <p>a game status detector of Honor of Kings, to extract excellent moments from game video.</p>
