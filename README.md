@@ -4,7 +4,7 @@
 
 <div style="display: flex; justify-content: space-around; align-items: center;">
     <img height="187px" src="https://github-readme-stats.vercel.app/api?username=drakending&show_icons=true&theme=transparent" />
-    <img height="187px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drakending&theme=transparent" />
+    <img align="center" height="187px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drakending&theme=transparent" />
 </div>
 <p>(我怎么敢把这东西放上来的，不是自取其辱吗x)</p>
 
