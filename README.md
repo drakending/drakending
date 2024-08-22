@@ -2,10 +2,23 @@
   Hi there 👋 This is Flowish
 </h1>
 
-<div style="display: flex; justify-content: space-around; align-items: center;">
-    <img height="187px" src="https://github-readme-stats.vercel.app/api?username=drakending&show_icons=true&theme=transparent" />
-    <img align="center" height="187px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drakending&theme=transparent" />
-</div>
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img
+      align="center"
+      height="165"
+      src="https://github-readme-stats.vercel.app/api?username=drakending&show_icons=true&custom_title=Github%20Status&hide=issues&theme=swift&count_private=true"
+    />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img
+      align="center"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=drakending&layout=compact&theme=swift&count_private=true&show"
+    />
+  </a>
+
+</p>
+
 <p>(我怎么敢把这东西放上来的，不是自取其辱吗x)</p>
 
 <div align="center">
